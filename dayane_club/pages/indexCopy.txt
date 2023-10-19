@@ -5,13 +5,13 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>DayaneFanClub🫣</title>
+        <title>Create Next App</title>
         <link rel="icon" href="/images/favicon.png" />
       </Head>
 
       <main>
         <h1 className={styles.title}>
-          Welcome to Dayane Fan Club!
+          Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <p className={styles.description}>
