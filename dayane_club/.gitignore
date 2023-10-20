@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 
+/dayane_club/amplify.yml
+
 # testing
 /coverage
 
